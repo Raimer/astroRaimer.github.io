@@ -9,7 +9,7 @@ permalink: /
 # Welcome to My Homepage!
 {: .fw-500 }
 
-{: .lh-deflaut}
+<br/>
 
 My name is Tian-Qi Huang (黄天奇). I am the PhD student at Department of Astronomy, Peking University. I am goint to attend the PhD thesis defense in 2022. Good luck to my job application this year.
 
