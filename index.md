@@ -16,7 +16,4 @@ I build this homepage to share my views on the recent astrophysical studies and 
 
 ✉️ htq@pku.edu.cn
 
-[mistake](http://example.com/){: .btn .btn-purple .mr-2 }
-[neutrino 2](http://example.com/){: .btn .btn-blue }
-
-<button type="button" name="button" class="btn">Home</button>
+[neutrino](./docs/CV.html){: .btn .btn-purple .mr-2 }
