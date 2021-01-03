@@ -6,7 +6,7 @@ description: "I build this homepage to share my views on the recent astrophysica
 permalink: /
 ---
 
-## Home
+# Welcome to My Homepage
 
 I am the PhD student at Department of Astronomy, Peking University. I am goint to attend the PhD thesis defense in 2022. Good luck to my job application this year.
 
