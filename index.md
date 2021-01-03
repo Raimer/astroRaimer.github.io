@@ -16,7 +16,7 @@ I build this homepage to share my views on the recent astrophysical studies and 
 
 ✉️ htq@pku.edu.cn
 
-[Button with space](http://example.com/){: .btn .btn-purple .mr-2 }
-[Button ](http://example.com/){: .btn .btn-blue }
+[mistake](http://example.com/){: .btn .btn-purple .mr-2 }
+[neutrino 2](http://example.com/){: .btn .btn-blue }
 
-<button type="button" name="button" class="btn">Button element</button>
+<button type="button" name="button" class="btn">Home</button>
