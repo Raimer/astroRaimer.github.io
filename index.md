@@ -16,6 +16,7 @@ I build this homepage to share my views on the recent astrophysical studies and 
 
 ✉️ htq@pku.edu.cn
 
-<span class="fs-3">
-[Blog]{: .btn-purple }
-</span>
+[Button with space](http://example.com/){: .btn .btn-purple .mr-2 }
+[Button ](http://example.com/){: .btn .btn-blue }
+
+<button type="button" name="button" class="btn">Button element</button>
