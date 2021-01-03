@@ -1,4 +1,5 @@
+theme: jekyll-theme-minimal
 title: Tian-Qi Huang's Homepage
 description: High Energy Astrophysics; Neutrino; Gamma-ray; IceCube; LHAASO; Albrecht Dürer
 show_downloads: true
-theme: jekyll-theme-minimal
+google_analytics:
