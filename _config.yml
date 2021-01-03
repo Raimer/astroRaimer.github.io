@@ -1,5 +1,5 @@
 title: Tianqi's Homepage
-logo: "/assets/images/logopking.png"
-description: High Energy Astrophysics; Neutrino; Gamma-ray; IceCube; LHAASO; Albrecht Dûrer
-theme: jekyll-theme-minimal
+#logo: "/assets/images/logopking.png"
+#description: High Energy Astrophysics; Neutrino; Gamma-ray; IceCube; LHAASO; Albrecht Dûrer
+#theme: jekyll-theme-minimal
 remote_theme: pmarsceill/just-the-docs
