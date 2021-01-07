@@ -3,6 +3,7 @@ layout: default
 title: Popular Science
 has_children: true
 parent: Blog
+permalink: docs/Blog/popscience
 ---
 
 ## Popular Science Article
