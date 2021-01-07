@@ -20,10 +20,10 @@ I build this homepage to share my views on the recent astrophysical studies and 
 ✉️ htq@pku.edu.cn
 
 ### Cotent
-- [CV](./docs/CV.html)
-- [Research](./docs/Research.html)
+- [CV](./docs/cv.html)
+- [Research](./docs/research.html)
 - Blog
   - [Popular Science Articles](./docs/Blog/popscience.html)
   - [Daily Note](./docs/Blog/dailynote.html)
   - [Academic Note](./docs/Blog/academicnote.html)
-- [Gallery](./docs/dailylife.html)
+- [Gallery](./docs/gallery/gallery.html)
