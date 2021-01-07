@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Popular Science
+nav_order: 1
 parent: Blog
 ---
 
