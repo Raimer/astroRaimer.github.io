@@ -21,9 +21,9 @@ I build this homepage to share my views on the recent astrophysical studies and 
 
 ### Cotent
 - [CV](./docs/cv.html)
-- [Research](./docs/research.html)
+- [Research](./docs/research.md)
 - Blog
-  - [Popular Science Articles](./docs/Blog/popscience.html)
+  - [Popular Science Articles](./docs/Blog/popscience.md)
   - [Daily Note](./docs/Blog/dailynote.html)
   - [Academic Note](./docs/Blog/academicnote.html)
 - [Gallery](./docs/gallery/gallery.html)
