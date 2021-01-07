@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Popular Science
+has_children: true
 parent: Blog
 ---
 
