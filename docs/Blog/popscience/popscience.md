@@ -10,14 +10,13 @@ Communication of frontier science to the general public is one of the responsibi
 
 Here are some good popular science websites I use:
 
-[AAS Nova](https://aasnova.org)
+**[AAS Nova](https://aasnova.org)**
 
-> The [American Astronomical Society](http://aas.org/) (AAS) is the major organization of professional astronomers in North America. The mission of the AAS is to enhance and share humanity's scientific understanding of the universe. AAS Nova highlights results published in the AAS's peer-reviewed journals. It provides a curation service to inform astronomy researchers and enthusiasts about breakthroughs and discoveries they might otherwise overlook.
+The [American Astronomical Society](http://aas.org/) (AAS) is the major organization of professional astronomers in North America. The mission of the AAS is to enhance and share humanity's scientific understanding of the universe. AAS Nova highlights results published in the AAS's peer-reviewed journals. It provides a curation service to inform astronomy researchers and enthusiasts about breakthroughs and discoveries they might otherwise overlook.
 
+**[Astrobites](https://www.eso.org/public/news/)**
 
-[Astrobites](https://www.eso.org/public/news/)
-
-> Astrobites is a daily astrophysical literature journal written by graduate students in astronomy since 2010. Our goal is to present one interesting paper per day in a brief format that is accessible to undergraduate students in the physical sciences who are interested in active research.
+Astrobites is a daily astrophysical literature journal written by graduate students in astronomy since 2010. Our goal is to present one interesting paper per day in a brief format that is accessible to undergraduate students in the physical sciences who are interested in active research.
 
 ### CONTENT
 
