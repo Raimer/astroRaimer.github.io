@@ -1,9 +1,7 @@
 ---
 layout: default
 title: Popular Science
-has_children: true
 parent: Blog
-permalink: docs/Blog/popscience
 ---
 
 ## Popular Science Article
@@ -21,4 +19,8 @@ Here are some good popular science websites I use:
 
 > Astrobites is a daily astrophysical literature journal written by graduate students in astronomy since 2010. Our goal is to present one interesting paper per day in a brief format that is accessible to undergraduate students in the physical sciences who are interested in active research.
 
+### CONTENT
 
+- Translation
+  - [Selections from 2020](./20200107.html)
+- Original Article
