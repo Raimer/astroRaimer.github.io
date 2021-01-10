@@ -6,3 +6,6 @@ parent: Blog
 ---
 
 ## Daily Note
+
+### CONTENT
+- [Markdown note](./ID20200110.html)
