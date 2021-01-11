@@ -18,4 +18,4 @@ I build this homepage to share my views on the recent astrophysical studies and 
 
 ✉️ htq@pku.edu.cn
 
-<a href="https://clustrmaps.com/site/1bfj5"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=ltPy9K0CjDfir3-6298EWV9CtgsqNiG5AY0CGSdiuoc&cl=ffffff" /></a>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=ltPy9K0CjDfir3-6298EWV9CtgsqNiG5AY0CGSdiuoc&cl=ffffff&w=a"></script>
