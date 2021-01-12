@@ -8,4 +8,7 @@ parent: Blog
 ## Daily Note
 
 ### CONTENT
+- [Conda](./ID20200112a.html)
+- [Dash](./ID20200112b.html)
 - [Markdown note](./ID20200110.html)
+
