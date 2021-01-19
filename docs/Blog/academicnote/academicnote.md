@@ -9,4 +9,4 @@ parent: Blog
 
 ### CONTENT
 - Paper Summary
-  - [eROSITA Bubbles](./ID20200119.html)
+  - [eROSITA Bubbles](./ID20200119.md)
