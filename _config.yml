@@ -5,3 +5,4 @@ title: Tian-Qi Huang
 remote_theme: pmarsceill/just-the-docs
 #remote_theme: remote_theme: ledge-framework/jekyll
 color_scheme: light
+markdown: kramdown
