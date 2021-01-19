@@ -6,3 +6,7 @@ parent: Blog
 ---
 
 ## Academic Note
+
+### CONTENT
+- [Paper Summary]
+  - [eROSITA Bubbles](./ID20200119.html)
