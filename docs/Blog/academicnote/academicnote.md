@@ -8,5 +8,5 @@ parent: Blog
 ## Academic Note
 
 ### CONTENT
-- [Paper Summary]
+- Paper Summary
   - [eROSITA Bubbles](./ID20200119.html)
