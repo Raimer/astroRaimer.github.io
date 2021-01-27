@@ -5,7 +5,7 @@ nav_order: 2
 parent: Blog
 ---
 
-## Academic Note
+## Research Note
 
 ### CONTENT
 - Paper Summary
