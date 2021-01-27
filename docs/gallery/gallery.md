@@ -8,4 +8,4 @@ permalink: docs/gallery
 ## Gallery
 
 ### CONTENT
-- [Cat and Baseball](./cat_and_baseball.html)
+- [Cat and Baseball](./catandbaseball.html)
