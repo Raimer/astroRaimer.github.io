@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Academic Note
+title: Research Note
 nav_order: 2
 parent: Blog
 ---
