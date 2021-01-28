@@ -22,7 +22,7 @@ color_scheme: blue
 ```
 
 #### License Statement
-By default, "This site uses Just the Docs, a documentation theme for Jekyll." is claimed at bottom of page. If you want to add the license of site, you can change the default statement in ```./_layouts/default.html```.
+By default, "This site uses Just the Docs, a documentation theme for Jekyll." is claimed at the bottom of page. If you want to declare the license of your site, you can change the default statement in ```./_layouts/default.html```.
 
 ### License
 This homepage is based on [Just the Docs](https://github.com/pmarsceill/just-the-docs), a documentation theme for [Jekyll](https://jekyllrb.com). The content on this site is licensed under a [CC BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/). 
