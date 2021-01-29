@@ -6,7 +6,7 @@ description: "I build this homepage to share my views on the recent astrophysica
 permalink: /
 ---
 
-# Welcome to My Homepage❗️
+# Welcome to My Homepage 
 
 <br>
 
